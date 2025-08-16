@@ -169,7 +169,7 @@ export const experienceData = [
     id: 2,
     company: "Sandvine Technologies",
     role: "AI Full Stack Developer",
-    duration: "Feb 2025 – Present",
+    duration: "March 2025 – Present",
     description: "Built an AI-based data assistant that converts natural language to SQL, executes DB queries, analyzes results, and returns visualizations. Worked with React, FastAPI, AWS Bedrock (Claude), and multi-agent AI architecture.",
     technologies: ["Python", "FastAI", "React.js", "Wbe3", "Docker", "AWS", " PostgreSQL", "RaectNative", "Vertica DB", "LLM", "Agent AI"]
   },
@@ -177,8 +177,8 @@ export const experienceData = [
     id: 2,
     company: "Beyond Imagination Technologies",
     role: "Web3 Full Stack Developer",
-    duration: "OCT 2022 – Present",
-    description: "Lull Stack Developer skilled in building web applications using React, Node.js/Django, and deploying them on AWS. Experienced with EC2, S3, RDS, and containerization using Docker, with a focus on scalable and secure full-stack development.",
+    duration: "OCT 2022 – Feb 2025",
+    description: "Full Stack Developer skilled in building web applications using React, Node.js/Django, and deploying them on AWS. Experienced with EC2, S3, RDS, and containerization using Docker, with a focus on scalable and secure full-stack development.",
     technologies: ["React.js", "Node.js", "AWS", "PostgreSQL", "Django", "Docker", "Web3", "Python"]
   },
 

@@ -158,7 +158,7 @@ export const projectsData = [
     title: "NGO Donation Platform",
     description: "A NGO Donation Platform is a web application built to help a non-profit organization collect donations online. Developed with React.js and Node.js, it integrates Razorpay for secure and seamless payment processing, making it easy for donors to contribute.",
     techStack: ["Reactjs", "Node js", "Payment gateway ",],
-    liveDemo: "https://lttlemankind.xyz",
+    liveDemo: "https://66f819b328bd550008391811--inspiring-kashata-3e9eff.netlify.app/",
     featured: true
   }
 ];

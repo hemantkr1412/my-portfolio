@@ -32,7 +32,7 @@ export const personalInfo = {
   title: "AI Full Stack Developer",
   email: "hemantfbzkumar@gmail.com",
   github: "https://github.com/hemantkr1412",
-  linkedin: "https://linkedin.com/in/hemantkumar",
+  linkedin: "https://www.linkedin.com/in/hemantkr1412?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   resume: "/resume.pdf"
 };
 
